@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AndroidSt_C</string>
+    <string name="etNombre">Nombres</string>
+    <string name="etApellido">Apellidos</string>
+    <string name="etCargo">Cargo</string>
+    <string name="etSuedoBase">Sueldo Base</string>
+    <string name="etDiasLab">Dias Lab</string>
+    <string name="BotonRegresar">REGRESAR</string>
+    <string name="BotonLiquidar">LIQUIDAR</string>
+
+</resources>
